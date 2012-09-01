@@ -1,7 +1,7 @@
 {t:Something Wonderful}
 {st:by Sunil K Chopra}
 
-{define: F#m7 base-fret 0 frets x 4 4 2 2 0}
+{define: F#m7 base-fret 1 frets x 4 4 2 2 0}
 
 {c:instrumental introduction}
 [F#m7]
